@@ -1,0 +1,7 @@
+FJJP 1. predrok
+
+Regularni izrazi
+Chomsky normalan oblik
+Parsiranje niza od vrha
+MoDKA u MeDKA
+Teorija turingov stroj
